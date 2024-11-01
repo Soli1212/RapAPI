@@ -1,0 +1,9 @@
+email_validator==2.1.1
+fastapi==0.111.1
+pydantic==2.8.2
+PyJWT==2.8.0
+python-dotenv==1.0.1
+python_bcrypt==0.3.2
+slowapi==0.1.9
+SQLAlchemy==2.0.29
+asyncpg==0.29.0
